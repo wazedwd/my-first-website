@@ -1,0 +1,20 @@
+nav > Ul {
+    display: flex;
+    margin: 20px;
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    padding: 5px;
+    text-decoration: none;
+}
+ nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li a:hover{
+    background-color: goldenrod;
+    border: sandybrown solid 1px;
+    border-radius: 2px;
+    box-shadow: 5px 5px 5px;
+}

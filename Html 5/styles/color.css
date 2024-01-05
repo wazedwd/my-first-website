@@ -1,0 +1,28 @@
+nav > ul > li {
+    color: black;
+    display: inline;
+    margin: 20px;
+    padding: 2px;
+    border: greenyellow solid 2px;
+    border-radius: 3px;
+    background-color: aqua;
+    box-shadow: 5px 5px 5px;
+}
+nav > ul > li > a {
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 40px;
+}
+.picture{
+    color: aqua;
+    font-size: 30px;
+    margin: 2px;
+}
+.go{
+    background-color: gold;
+    border: greenyellow solid 2px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+}
